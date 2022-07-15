@@ -1,5 +1,5 @@
-const db = require("./data/db.json");
+const users = require("./data/users.json");
 
 module.exports = {
-    db
+    users
 }
